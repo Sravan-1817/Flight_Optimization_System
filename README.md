@@ -68,9 +68,20 @@ Example queries:
 
 ---
 
-  
+  ## 💬 ScreenShots
 
-
+<img width="1475" height="683" alt="Image" src="https://github.com/user-attachments/assets/a3a961a7-ec27-4ad8-8387-e099c34af594" />
+<img width="1586" height="680" alt="Image" src="https://github.com/user-attachments/assets/82084d45-8e83-43bd-afe1-0bbca0b9705a" />
+<img width="1483" height="751" alt="Image" src="https://github.com/user-attachments/assets/9f1ffc07-aad2-4bd0-bf63-1dee54d3139c" />
+<img width="1673" height="741" alt="Image" src="https://github.com/user-attachments/assets/fa09be51-4aa8-4b1e-9e31-635f6bca4f29" />
+<img width="1620" height="764" alt="Image" src="https://github.com/user-attachments/assets/ebad2fbe-d7a1-48ca-a38b-b3a8fb0b43ae" />
+<img width="1307" height="573" alt="Image" src="https://github.com/user-attachments/assets/cab571b4-6a26-4c0b-a483-ddfe1b37d601" />
+<img width="1672" height="762" alt="Image" src="https://github.com/user-attachments/assets/b9c99c91-4aac-4e6d-bee7-4d0690563fa6" />
+<img width="1613" height="763" alt="Image" src="https://github.com/user-attachments/assets/1f2eef7e-ee57-4a2f-8299-8c7aeb6e30b3" />
+<img width="1513" height="743" alt="Image" src="https://github.com/user-attachments/assets/8f27da49-47a6-459d-a970-05b37deab5fc" />
+<img width="1160" height="168" alt="Image" src="https://github.com/user-attachments/assets/02c578a8-7753-4d32-a172-018aea9e9c8c" />
+<img width="1728" height="739" alt="Image" src="https://github.com/user-attachments/assets/42ed04b6-3774-49cb-9606-e296e4d67809" />
+<img width="1526" height="302" alt="Image" src="https://github.com/user-attachments/assets/be65e417-0367-48c4-b69c-a57a12e0efe4" />
  
 
 ---
