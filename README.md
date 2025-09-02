@@ -39,7 +39,7 @@ Flight-Delay-Optimization:
 
 ## 🤖 Machine Learning Model  
 
-We implemented multiple ML models to predict **departure delays**:  
+ implemented multiple ML models to predict **departure delays**:  
 - Random Forest Regressor  
 - Gradient Boosting Regressor  
 - XGBoost  
@@ -82,6 +82,13 @@ Example queries:
 <img width="1160" height="168" alt="Image" src="https://github.com/user-attachments/assets/02c578a8-7753-4d32-a172-018aea9e9c8c" />
 <img width="1728" height="739" alt="Image" src="https://github.com/user-attachments/assets/42ed04b6-3774-49cb-9606-e296e4d67809" />
 <img width="1526" height="302" alt="Image" src="https://github.com/user-attachments/assets/be65e417-0367-48c4-b69c-a57a12e0efe4" />
+
+<img width="1621" height="541" alt="Image" src="https://github.com/user-attachments/assets/8a092c96-4827-418d-9f33-1c4c5b4cffdf" />
+<img width="1440" height="532" alt="Image" src="https://github.com/user-attachments/assets/aa2d63be-cdcd-45a1-af03-b58bcb730f82" />
+
+![Image](https://github.com/user-attachments/assets/c6cd673c-c173-4710-b5bf-4fc014178577)
+![Image](https://github.com/user-attachments/assets/065f879c-e346-4496-99ea-074fe13a1274)
+![Image](https://github.com/user-attachments/assets/af1e1fb9-1400-4846-9bb6-b4f7193f8d7b)
  
 
 ---
